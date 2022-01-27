@@ -1,0 +1,6 @@
+username: admin
+password: admin
+koko_hostname: 172.16.10.122
+port: 2222
+private_key_path: test_id_rsa
+private_key_passphrase: '123456'
